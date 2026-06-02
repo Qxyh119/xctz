@@ -76,6 +76,15 @@ function About() {
               </div>
             </div>
           )}
+          {about.contact.qq && (
+            <div className="contact-item">
+              <span className="contact-icon">🐧</span>
+              <div>
+                <div className="contact-label">QQ</div>
+                <div className="contact-value">{about.contact.qq}</div>
+              </div>
+            </div>
+          )}
           {about.contact.phone && (
             <div className="contact-item">
               <span className="contact-icon">📱</span>
