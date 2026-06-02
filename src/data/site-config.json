@@ -1,0 +1,16 @@
+{
+  "siteName": "我的作品集",
+  "subtitle": "视频剪辑 · 创意制作",
+  "password": "123456",
+  "about": {
+    "name": "剪辑师",
+    "avatar": "",
+    "bio": "你好！我是一名热爱视频剪辑的创作者。\n\n擅长剪辑软件：Premiere Pro、After Effects、DaVinci Resolve\n\n专注于商业广告、产品宣传、短视频等内容创作。这个网站收录了我的部分作品，欢迎观看。\n\n如有合作意向，欢迎联系！",
+    "skills": ["Premiere Pro", "After Effects", "DaVinci Resolve", "剪映", "Final Cut Pro"],
+    "contact": {
+      "email": "editor@example.com",
+      "wechat": "my_wechat_id",
+      "phone": ""
+    }
+  }
+}
